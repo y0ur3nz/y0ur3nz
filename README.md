@@ -1,16 +1,22 @@
-### Hi there 👋
+# README.md
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=y0ur3nz&show_icons=true&locale=en&theme=chartreuse-dark" width="100%" /></p>
 
-<!--
-**y0ur3nz/y0ur3nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👀„ Few Things About Me.
+- :wink: ‹ Hi, I'm @y0ur3nz
+-  :yum: I'm interested in Programming And Cyber Security
+- :smiley: I'm currently learning Python Programming
+- :raised_eyebrow: « How to reach me -https://threads.net/@unknwsec
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tux-MacG1v&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="100%" /></p>
+
+## Visitors
+<img align="center" src="https://count.getloli.com/get/@y0ur3nz?theme=asoul">
+
+
+<!---
+Tux-MacG1v/Tux-MacG1v is a âœ¨ special âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+￼Enter
